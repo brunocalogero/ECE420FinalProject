@@ -1,0 +1,11 @@
+{
+  "buildFiles": [
+    "C:\\ECE420FinalProject\\FaceRecognitionApp\\app\\src\\main\\cpp\\Android.mk",
+    "C:\\ECE420FinalProject\\FaceRecognitionApp\\app\\src\\main\\cpp\\Application.mk"
+  ],
+  "cleanCommands": [],
+  "libraries": {},
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}
